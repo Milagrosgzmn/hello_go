@@ -1,12 +1,11 @@
 package main
 
 import (
-	"fmt"
-	"PlayWithPointers"
+	"github.com/Milagrosgzmn/hello_go/app/pointers"
 )
 
 
 func main() {
 
-    
+    //pointers.PlayWithPointers()
 }

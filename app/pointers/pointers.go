@@ -1,3 +1,7 @@
+package pointers
+
+import "fmt"
+
 func zeroval(ival int) {
     ival = 0
 }
